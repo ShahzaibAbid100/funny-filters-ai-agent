@@ -1,0 +1,6 @@
+{
+  "name": "GenAI Studio - AI-Powered Creation",
+  "description": "Create hilarious AI effects, funny filters, and personalized portraits with GenAI Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

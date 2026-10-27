@@ -1,0 +1,58 @@
+
+# AI model directories
+/models/
+/backend/models/
+
+# AI model weight files
+*.safetensors
+*.ckpt
+*.gguf
+*.pt
+*.pth
+*.onnx
+*.bin
+
+# Python virtual environments
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node.js and Vite
+node_modules/
+dist/
+build/
+.vite/
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# User uploads and generated outputs
+/data/uploads/
+/data/outputs/
+/outputs/
+/output/
+/storage/
+/temp/
+/tmp/
+
+# Local databases and logs
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Old project backups
+/backups/
+*.bak
